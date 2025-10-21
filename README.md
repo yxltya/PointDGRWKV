@@ -1,4 +1,4 @@
-# PointDGRWKV: Generalizing RWKV-like Architecture to Unseen Domains \\for Point Cloud Classification
+# PointDGRWKV: Generalizing RWKV-like Architecture to Unseen Domains for Point Cloud Classification
 
 Our code is coming soon.
 
@@ -22,5 +22,6 @@ If you use PointDGRWKV in your research, please use the following BibTeX entry.
       year={2025}
 }
 ```
+
 
 
